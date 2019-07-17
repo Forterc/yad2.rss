@@ -1,4 +1,6 @@
-#Yad2 RSS API
+This is my project for viki, based on [@Almog](https://github.com/almog)'s API.
+
+#Yad2 apartment finder
 
 ##What?
 This project is aimed for those who're searching for an apartment and tired of refreshing [Yad2](http://yad2.co.il) manually during the day.
@@ -34,4 +36,4 @@ Use your favorite news reader to serve it.
 It is worth noting here that your news reader update rate should approximately match the amount of ads your yad2 search filters.
 
 ##Acknowledgement
-This project is based on [@shaiguitar](http://github.com/shaiguitar)'s old project that aimed to achieve the same goal.
+This project is based on [@Almog](https://github.com/almog)'s old project that aimed to achieve the same goal.
